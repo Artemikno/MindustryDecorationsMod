@@ -1,6 +1,7 @@
 type: Wall
 name: Fan
 description: Fan wall
+rotateSpeed: 1
 size: 2
 health: 480 // (small copper wall health / it's build cost) * my wall build cost = 480
 researchCostMultiplier: 2
