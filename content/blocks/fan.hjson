@@ -9,7 +9,7 @@ requirements: [
   copper/9 // OMG MD REFERENCE
 ]
 research: copper-wall
-drawer:
+drawer: {
   DrawMulti
   drawers: [
     {
@@ -23,3 +23,4 @@ drawer:
       layer: 90
     }
   ]
+}
