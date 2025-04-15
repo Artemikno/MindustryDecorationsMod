@@ -26,3 +26,5 @@ drawer: {
 consumes: {
   power: 0.1
 }
+hasPower: true
+conductivePower: true
