@@ -1,1 +1,29 @@
-
+type: GenericCrafter
+name: Alarm
+description: Alam
+size: 1
+health: 50
+researchCostMultiplier: 0.5
+category: defense
+requirements: [
+  copper/4
+]
+research: copper-wall
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawPower
+      emptyLightColor: 4a4b53ff
+      fullLightColor: ff0000ff
+    }
+  ]
+}
+consumes: {
+  power: 0.1
+}
+hasPower: true
+conductivePower: true
