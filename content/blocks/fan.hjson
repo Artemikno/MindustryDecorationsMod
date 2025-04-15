@@ -17,10 +17,9 @@ drawer: {
     },
     {
       type: DrawRegion
-      region: "fan-rotator"
+      suffix: "-rotator"
       spinSprite: true
       rotateSpeed: 2
-      layer: 90
     }
   ]
 }
