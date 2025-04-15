@@ -19,6 +19,7 @@ drawer:
     {
       type: DrawRegion
       region: fan-rotator
-      rotateSpeed: 3
+      spinSprite: true
+      rotateSpeed: 2
     }
   ]
