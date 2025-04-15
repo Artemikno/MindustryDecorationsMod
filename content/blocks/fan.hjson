@@ -23,3 +23,6 @@ drawer: {
     }
   ]
 }
+consumes: {
+  power: 0.1
+}
