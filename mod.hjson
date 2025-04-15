@@ -2,7 +2,7 @@ name: "mindustry-decorations-mod"
 displayName: "Mindustry decorations mod"
 author: Artemik
 description: "Added things: fan"
-version: "1.0.2"
+version: "fish"
 minGameVersion: "146"
 dependencies: [ ]
 hidden: false
