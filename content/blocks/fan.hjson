@@ -13,10 +13,10 @@ drawer:
   DrawMulti
   drawers: [
     {
-      DrawDefault
+      type: DrawDefault
     },
     {
-      DrawRegion
+      type: DrawRegion
       region: fan-rotator
       spinSprite: true
       rotateSpeed: 2
