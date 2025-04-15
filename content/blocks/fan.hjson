@@ -1,4 +1,4 @@
-type: Wall
+type: GenericCrafter
 name: Fan
 description: Fan wall
 size: 2
@@ -9,7 +9,6 @@ requirements: [
   copper/9 // OMG MD REFERENCE
 ]
 research: copper-wall
-regions: [ fan, fan-rotator ]
 drawer:
   type: DrawMulti
   draws: [
