@@ -10,13 +10,13 @@ requirements: [
 ]
 research: copper-wall
 drawer:
-  type: DrawMulti
-  draws: [
+  DrawMulti
+  drawers: [
     {
-      type: DrawDefault
+      DrawDefault
     },
     {
-      type: DrawRegion
+      DrawRegion
       region: fan-rotator
       spinSprite: true
       rotateSpeed: 2
