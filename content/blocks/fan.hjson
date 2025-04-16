@@ -28,3 +28,4 @@ consumes: {
 }
 hasPower: true
 conductivePower: true
+ambientSound: hum
