@@ -10,7 +10,7 @@ requirements: [
   lead/1
 ]
 research: alarm
-drawer: {
+/*drawer: {
   type: DrawMulti
   drawers: [
     {
@@ -22,10 +22,11 @@ drawer: {
       reverse: true
     }
   ]
-}
+}*/
 consumes: {
   power: 0.1
 }
 hasPower: true
 conductivePower: true
 ambientSound: alarm
+ambientSoundVolume: 0.5
