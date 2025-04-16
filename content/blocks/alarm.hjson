@@ -1,12 +1,13 @@
 type: GenericCrafter
-name: Alarm
-description: Alam
+name: Alarm light
+description: Light (red)
 size: 1
 health: 50
 researchCostMultiplier: 0.5
 category: defense
 requirements: [
   copper/4
+  lead/4
 ]
 research: copper-wall
 drawer: {
@@ -16,9 +17,11 @@ drawer: {
       type: DrawDefault
     }
     {
-      type: DrawPower
-      emptyLightColor: 4a4b53ff
-      fullLightColor: ff0000ff
+      type: DrawGlowRegion
+      //emptyLightColor: 4a4b53ff
+      //fullLightColor: ff0000ff
+      suffix: "-power"
+      alpha: 1
     }
   ]
 }
