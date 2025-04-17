@@ -30,3 +30,4 @@ consumes: {
 }
 hasPower: true
 conductivePower: true
+results: {}
