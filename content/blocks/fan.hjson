@@ -30,3 +30,4 @@ hasPower: true
 conductivePower: true
 ambientSound: hum
 splitHeat: true
+results: {}
