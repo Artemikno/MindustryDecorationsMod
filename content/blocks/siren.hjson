@@ -30,3 +30,4 @@ hasPower: true
 conductivePower: true
 ambientSound: alarm
 ambientSoundVolume: 1
+results: {}
