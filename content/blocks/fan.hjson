@@ -1,4 +1,4 @@
-type: HeatProducer
+type: HeatConductor
 name: Fan
 description: Fan wall
 size: 2
@@ -29,4 +29,4 @@ consumes: {
 hasPower: true
 conductivePower: true
 ambientSound: hum
-heatOutput: -100
+splitHeat: true
