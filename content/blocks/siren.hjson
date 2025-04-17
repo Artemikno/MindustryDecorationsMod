@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: Separator
 name: Alarm siren
 description: Makes annoying sounds
 size: 1
