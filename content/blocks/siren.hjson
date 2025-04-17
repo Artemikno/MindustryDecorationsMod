@@ -24,7 +24,7 @@ research: alarm
   ]
 }*/
 consumes: {
-  power: 0.1
+  power: 0.025
 }
 hasPower: true
 conductivePower: true
