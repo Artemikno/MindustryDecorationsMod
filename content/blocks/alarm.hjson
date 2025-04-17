@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: Separator
 name: Alarm light
 description: Light (red)
 size: 1
