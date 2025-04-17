@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: HeatProducer
 name: Fan
 description: Fan wall
 size: 2
@@ -29,3 +29,4 @@ consumes: {
 hasPower: true
 conductivePower: true
 ambientSound: hum
+heatOutput: -1
