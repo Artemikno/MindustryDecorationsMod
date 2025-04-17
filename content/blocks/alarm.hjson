@@ -1,4 +1,4 @@
-type: Separator
+type: GenericCrafter
 name: Alarm light
 description: Light (red)
 size: 1
@@ -30,4 +30,3 @@ consumes: {
 }
 hasPower: true
 conductivePower: true
-results: {}
