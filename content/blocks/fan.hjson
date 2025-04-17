@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: Separator
 name: Fan
 description: Fan wall
 size: 2
