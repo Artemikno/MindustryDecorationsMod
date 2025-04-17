@@ -1,4 +1,4 @@
-type: Separator
+type: GenericCrafter
 name: Alarm siren
 description: Makes annoying sounds
 size: 1
@@ -30,4 +30,3 @@ hasPower: true
 conductivePower: true
 ambientSound: alarm
 ambientSoundVolume: 1
-results: {}
